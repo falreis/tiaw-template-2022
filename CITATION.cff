@@ -1,0 +1,27 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: LOCKEY
+authors:
+  - name-suffix: Professor
+    affiliation: PUC Minas
+  - family-names: Lima Reis
+    given-names: Felipe Augusto 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+  - family-names: Barbosa da Fonseca
+    given-names: Gabriel 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alves Nogueira
+    given-names: Simone 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Vieira Carneiro
+    given-names: Rommel 
+keywords:
+  - Educacional
+  - Segurança na Web
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti1-time-professores-tiaw-es
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2021-12-22
